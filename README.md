@@ -1,4 +1,4 @@
-# Money Laundering Detection with Feedforward Neural Networks
+# Anti-Money Laundering with Feedforward Neural Networks
 A lightweight AI solution for detecting illicit financial transactions.
 
 <br>
