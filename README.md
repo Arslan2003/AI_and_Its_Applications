@@ -69,8 +69,7 @@ venv\Scripts\activate     # Windows
 ```
 pip install -r requirements.txt
 ```
-4. Download the dataset:
-The project uses [HI-Small Trans.csv](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml?select=HI-Small_Trans.csv) released by IBM.
+4. Download the dataset, [HI-Small Trans.csv](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml?select=HI-Small_Trans.csv), released by IBM.
 5. Run the training and evaluation script:
 ```
 python aml_fnn.py
