@@ -1,3 +1,6 @@
+<img width="100%" alt="AML_with_FNN_-_Banner" src="https://github.com/user-attachments/assets/c970bec9-85b7-45f2-b452-5341845f84fc" />
+
+
 # Anti-Money Laundering with Feedforward Neural Networks
 A lightweight AI solution for detecting illicit financial transactions.
 
